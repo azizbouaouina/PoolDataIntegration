@@ -19,6 +19,11 @@ This repository utilizes Infrastructure as Code to create essential AWS stacks f
 
 ![7](https://github.com/azizbouaouina/PoolDataIntegration/assets/104959387/a827312b-6ca2-4b3c-adc6-c177be56de9a)
 
+The first stack involves the integration of pool fillage data from an S3 bucket located in a different AWS account into Clickhouse Cloud whenever new data becomes available.
+
+The second stack involves saving hourly weather data for the pool's location in an S3 bucket and subsequently integrating this data into Clickhouse Cloud.
+
+The third stack involves saving hourly pool temperature data in an S3 bucket and subsequently integrating this data into Clickhouse Cloud.
 
 ## Installation and Deployment
 
