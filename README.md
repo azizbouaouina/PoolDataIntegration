@@ -17,6 +17,7 @@ This repository utilizes Infrastructure as Code to create essential AWS stacks f
 
 ## Functionality
 
+![7](https://github.com/azizbouaouina/PoolDataIntegration/assets/104959387/a827312b-6ca2-4b3c-adc6-c177be56de9a)
 
 
 ## Installation and Deployment
