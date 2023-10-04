@@ -29,6 +29,14 @@ The third stack involves saving hourly pool temperature data in an S3 bucket and
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+To run this project locally, follow these steps:
+
+Clone the repository :
+
+```
+git clone https://github.com/azizbouaouina/PoolDataIntegration
+```
+
 Create a virtualenv :
 
 ```
