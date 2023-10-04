@@ -6,7 +6,7 @@ This repository utilizes Infrastructure as Code to create essential AWS stacks f
 ## Table of Contents
 - [Requirements](#requirements)
 - [Functionality](#functionality)
-- [Installation and Deployment](#installationanddeployment)
+- [Installation and Deployment](#installation-and-deployment)
 
 ## Requirements
 
